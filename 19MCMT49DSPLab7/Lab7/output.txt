@@ -1,0 +1,6 @@
+Even numbers are shifted to left and Odd numbers to the right.
+
+2 0 22 5 7 1 9 45 
+
+12 40 32 0 23 111 
+
