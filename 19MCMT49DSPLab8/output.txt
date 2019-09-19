@@ -1,0 +1,8 @@
+
+Linked list is circular starting at node 1.
+
+Linked list is circular starting at node 3.
+
+Linked List is not circular.
+
+Linked list is circular starting at node 0.
